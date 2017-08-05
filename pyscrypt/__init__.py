@@ -34,7 +34,7 @@
 
 from .file import InvalidScryptFileFormat, ScryptFile
 from .hash import hash
-
+from .hash_base64 import hash
 VERSION = [1, 6, 2]
 
-__all__ = ['hash', 'InvalidScryptFileFormat', 'ScryptFile']
+__all__ = ['hash', 'hash_base64', 'InvalidScryptFileFormat', 'ScryptFile']
