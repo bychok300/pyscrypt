@@ -13,7 +13,7 @@ setup(name = 'pyscrypt',
       long_description = LONG_DESCRIPTION,
       author = 'Richard Moore',
       author_email = 'pyscrypt@ricmoo.com',
-      url = 'https://github.com/ricmoo/pyscrypt',
+      url = 'https://github.com/bychok300/pyscrypt',
       packages = ['pyscrypt'],
       classifiers = [
           'Topic :: Security :: Cryptography',
